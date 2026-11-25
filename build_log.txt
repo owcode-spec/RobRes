@@ -1,0 +1,76 @@
+120 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.10
+120 INFO: Python: 3.15.2
+147 INFO: Platform: Windows-11-10.0.26200-SP0
+147 INFO: Python environment: C:\Users\Administrator\AppData\Local\Python\pythoncore-3.15-64
+147 INFO: wrote C:\Users\Administrator\Downloads\RobRun-Stretch-main\RobRunResolutionTool.spec
+150 INFO: Removing temporary files and cleaning cache in C:\Users\Administrator\AppData\Local\pyinstaller
+151 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\Administrator\\Downloads\\RobRun-Stretch-main',
+ 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\python315.zip',
+ 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs',
+ 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib',
+ 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64',
+ 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages',
+ 'C:\\Users\\Administrator\\Downloads\\RobRun-Stretch-main']
+367 INFO: Appending 'datas' from .spec
+367 INFO: checking Analysis
+368 INFO: Building Analysis because Analysis-00.toc is non existent
+368 INFO: Looking for Python shared library...
+368 INFO: Using Python shared library: C:\Users\Administrator\AppData\Local\Python\pythoncore-3.15-64\python315.dll
+368 INFO: Running Analysis Analysis-00.toc
+368 INFO: Target bytecode optimization level: 0
+368 INFO: Initializing module dependency graph...
+369 INFO: Initializing module graph hook caches...
+380 INFO: Analyzing modules for base_library.zip ...
+1371 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+2142 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+3769 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+3779 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+3914 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+4796 INFO: Caching module dependency graph...
+4820 INFO: Analyzing C:\Users\Administrator\Downloads\RobRun-Stretch-main\main.py
+4859 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+4863 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+4952 INFO: Processing standard module hook 'hook-PySide6.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+5104 INFO: Processing standard module hook 'hook-shiboken6.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+5388 INFO: Processing standard module hook 'hook-PySide6.QtNetwork.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+7932 INFO: Processing standard module hook 'hook-PySide6.QtCore.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+11901 INFO: Processing standard module hook 'hook-PySide6.QtGui.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+29008 INFO: Processing standard module hook 'hook-PySide6.QtWidgets.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+32191 INFO: Processing standard module hook 'hook-psutil.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+32370 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+32399 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+32433 INFO: Processing module hooks (post-graph stage)...
+32486 INFO: Performing binary vs. data reclassification (131 entries)
+32510 INFO: Looking for ctypes DLLs
+32531 INFO: Analyzing run-time hooks ...
+32532 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+32535 INFO: Including run-time hook 'pyi_rth_pyside6.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+32537 INFO: Processing pre-find-module-path hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+32538 INFO: Processing standard module hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks'
+32545 INFO: Creating base_library.zip...
+32563 INFO: Looking for dynamic libraries
+32753 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\shiboken6']
+32753 INFO: Extra DLL search directories (PATH): ['C:\\Users\\Administrator\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PySide6']
+33501 INFO: Warnings written to C:\Users\Administrator\Downloads\RobRun-Stretch-main\build\RobRunResolutionTool\warn-RobRunResolutionTool.txt
+33516 INFO: Graph cross-reference written to C:\Users\Administrator\Downloads\RobRun-Stretch-main\build\RobRunResolutionTool\xref-RobRunResolutionTool.html
+33536 INFO: checking PYZ
+33536 INFO: Building PYZ because PYZ-00.toc is non existent
+33536 INFO: Building PYZ (ZlibArchive) C:\Users\Administrator\Downloads\RobRun-Stretch-main\build\RobRunResolutionTool\PYZ-00.pyz
+33652 INFO: Building PYZ (ZlibArchive) C:\Users\Administrator\Downloads\RobRun-Stretch-main\build\RobRunResolutionTool\PYZ-00.pyz completed successfully.
+33659 INFO: checking PKG
+33659 INFO: Building PKG because PKG-00.toc is non existent
+33659 INFO: Building PKG (CArchive) RobRunResolutionTool.pkg
+38667 INFO: Building PKG (CArchive) RobRunResolutionTool.pkg completed successfully.
+38670 INFO: Bootloader C:\Users\Administrator\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+38671 INFO: checking EXE
+38671 INFO: Building EXE because EXE-00.toc is non existent
+38671 INFO: Building EXE from EXE-00.toc
+38671 INFO: Copying bootloader EXE to C:\Users\Administrator\Downloads\RobRun-Stretch-main\dist\RobRunResolutionTool.exe
+38673 INFO: Copying icon to EXE
+38676 INFO: Copying 0 resources to EXE
+38676 INFO: Embedding manifest in EXE
+38679 INFO: Appending PKG archive to EXE
+38712 INFO: Fixing EXE headers
+38911 INFO: Building EXE from EXE-00.toc completed successfully.
+38916 INFO: Build complete! The results are available in: C:\Users\Administrator\Downloads\RobRun-Stretch-main\dist
